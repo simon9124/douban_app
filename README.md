@@ -1,11 +1,13 @@
 # douban_app
 豆瓣app页面，用vue简单实现几个路由单页
-
+**编码时需要注意的几个点，在notice文件里面**<br>
+  
+  
 运用技术：
 ------
 vue全家桶（vuex+vue-router+webpack+axios）、slot内容分发
-
-**编码时需要注意的几个点，在notice文件里面**<br>
+  
+  
 
 实现界面截图：
 ------
@@ -19,7 +21,5 @@ vue全家桶（vuex+vue-router+webpack+axios）、slot内容分发
 ------
 
 ![Image text](https://raw.githubusercontent.com/simon9124/douban_app/master/%E6%88%AA%E5%9B%BE/%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.jpg)
-<br>
-
-感谢@MrMoveon 大神提供的教程！
-------
+  
+**感谢@MrMoveon 大神提供的教程！**<br>
