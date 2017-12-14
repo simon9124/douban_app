@@ -1,11 +1,11 @@
 # douban_app
-豆瓣app页面，用vue简单实现几个路由单页
+豆瓣app页面，用vue简单实现几个路由单页，
 **编码时需要注意的几个点，在notice文件里面**<br>
   
   
 运用技术：
 ------
-vue全家桶（vuex+vue-router+webpack+axios）、slot内容分发
+vue全家桶（vuex+vue-router+webpack+axios）、slot内容分发、swiper插件
   
   
 
