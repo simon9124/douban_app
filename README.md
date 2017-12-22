@@ -20,5 +20,3 @@ vue全家桶（vuex+vue-router+webpack+axios）、slot内容分发、swiper插�
 ------
 
 ![Image text](https://raw.githubusercontent.com/simon9124/douban_app/master/%E6%88%AA%E5%9B%BE/%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.jpg)
-  
-**感谢@MrMoveon 大神提供的教程！**<br>
